@@ -312,6 +312,11 @@
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 2JJZ96P8P5;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
