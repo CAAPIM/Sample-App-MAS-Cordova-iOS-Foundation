@@ -1,41 +1,32 @@
 {
   "_args": [
     [
-      {
-        "raw": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
-        "spec": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
-        "type": "directory"
-      },
-      "/Users/aglsa02/Development/RegressionCordova/RegressFoundation/node_modules"
+      "/Users/aglsa02/Development/Cordova-MAS-Foundation",
+      "/Users/aglsa02/Development/cordovaSampleApps/1.7.00/Foundation"
     ]
   ],
-  "_from": "../../Cordova-MAS-Foundation",
-  "_id": "cordova-plugin-mas-core@1.5.0",
+  "_from": "../../../Cordova-MAS-Foundation",
+  "_id": "cordova-plugin-mas-core@1.6.10",
   "_inCache": true,
+  "_installable": true,
   "_location": "/cordova-plugin-mas-core",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
-    "scope": null,
-    "escapedName": null,
     "name": null,
+    "raw": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
     "rawSpec": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
+    "scope": null,
     "spec": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
     "type": "directory"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "file:../../Cordova-MAS-Foundation",
-  "_shasum": "a5f34797b130b935ada291605127f1889ff5b8e5",
+  "_resolved": "file:../../../Cordova-MAS-Foundation",
+  "_shasum": "d130a61c6a142efdba4296bc7912b036a6a7a470",
   "_shrinkwrap": null,
   "_spec": "/Users/aglsa02/Development/Cordova-MAS-Foundation",
-  "_where": "/Users/aglsa02/Development/RegressionCordova/RegressFoundation/node_modules",
+  "_where": "/Users/aglsa02/Development/cordovaSampleApps/1.7.00/Foundation",
   "author": {
     "name": "CA Technologies Ltd."
   },
@@ -49,10 +40,14 @@
       "android"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "filehound": "^1.16.2",
+    "plist": "^3.0.1",
+    "xcode": "^1.0.0"
+  },
   "description": "Cordova MAS Plugin",
   "devDependencies": {},
-  "gitHead": "750fab634ae151e94fa0caf4664e09a32d2360d3",
+  "gitHead": "e596862471b02532d995a6cd3f64a39acf605e36",
   "homepage": "https://github.com/CAAPIM/MAS-Foundation-Cordova#readme",
   "keywords": [
     "cordova",
@@ -71,5 +66,5 @@
     "type": "git",
     "url": "git+https://github.com/CAAPIM/MAS-Foundation-Cordova.git"
   },
-  "version": "1.5.0"
+  "version": "1.6.10"
 }
