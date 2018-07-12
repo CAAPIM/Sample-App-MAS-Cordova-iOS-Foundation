@@ -1,0 +1,14 @@
+{
+    "MASFoundation": {
+        "name": "MASFoundation",
+        "type": "podspec",
+        "spec": "~> 1.7.10",
+        "count": 1
+    },
+    "MASUI": {
+        "name": "MASUI",
+        "type": "podspec",
+        "spec": "~> 1.7.10",
+        "count": 1
+    }
+}
