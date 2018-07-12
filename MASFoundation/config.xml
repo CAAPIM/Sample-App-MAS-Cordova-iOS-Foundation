@@ -23,7 +23,7 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <plugin name="cordova-plugin-mas-core" spec="/Users/aglsa02/Development/Cordova-MAS-Foundation" />
     <plugin name="cordova-plugin-barcodescanner" spec="^0.7.4" />
-    <engine name="ios" spec="/Users/aglsa02/Desktop/cordova-ios/" />
+    <plugin name="cordova-plugin-mas-core" spec="^1.7.12" />
+    <engine name="ios" spec="/Users/yussy01/WorkSpace/MAS/Cordova/Dev/mas-cli/Support/cordova-ios/" />
 </widget>

@@ -10,10 +10,10 @@
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.ca.apim.foundation"
     },
-    "cordova-plugin-mas-core": {
+    "cordova-plugin-barcodescanner": {
       "PACKAGE_NAME": "com.ca.apim.foundation"
     },
-    "cordova-plugin-barcodescanner": {
+    "cordova-plugin-mas-core": {
       "PACKAGE_NAME": "com.ca.apim.foundation"
     }
   },
