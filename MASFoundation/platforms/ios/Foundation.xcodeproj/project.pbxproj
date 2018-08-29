@@ -13,7 +13,6 @@
 		301BF552109A68D80062928A /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF535109A57CC0062928A /* libCordova.a */; };
 		302D95F114D2391D003F00A1 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302D95EF14D2391D003F00A1 /* MainViewController.m */; };
 		302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 302D95F014D2391D003F00A1 /* MainViewController.xib */; };
-		3C6EA38CEBEE4D5BADE9D145 /* msso_config.json in Resources */ = {isa = PBXBuildFile; fileRef = A152624ED02448A7BE4C2F2B /* msso_config.json */; };
 		47D9CFBBB9AB4BF6ADF1E1CB /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA2AF8DBBEE646F1A721CA32 /* WebViewController.m */; };
 		6AD21B6777F7B8277DBD5F37 /* libPods-Foundation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CE24A23B773B55BF322DEAE /* libPods-Foundation.a */; };
 		6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */; };
@@ -98,7 +97,6 @@
 		8D1107310486CEB800E47090 /* Foundation-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Foundation-Info.plist"; path = "Foundation/Foundation-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = SOURCE_ROOT; };
 		8F1911D057434A6CBC8B7AC7 /* MASPluginDevice.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = MASPluginDevice.m; path = "cordova-plugin-mas-core/MASPluginDevice.m"; sourceTree = "<group>"; };
 		950FD385ACB548208E42F55D /* MASPluginUser.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = MASPluginUser.m; path = "cordova-plugin-mas-core/MASPluginUser.m"; sourceTree = "<group>"; };
-		A152624ED02448A7BE4C2F2B /* msso_config.json */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = msso_config.json; path = /Users/yussy01/Desktop/SampleApps/MASFoundation/platforms/ios/msso_config.json; sourceTree = "<group>"; };
 		A8CE191A213568C500255735 /* MASFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MASFoundation.framework; sourceTree = "<group>"; };
 		A8CE191E213568C500255735 /* MASUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MASUI.framework; sourceTree = "<group>"; };
 		A8CE19262135691A00255735 /* Foundation.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = Foundation.entitlements; path = Foundation/Foundation.entitlements; sourceTree = "<group>"; };
@@ -189,7 +187,6 @@
 				8D1107310486CEB800E47090 /* Foundation-Info.plist */,
 				6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */,
 				1B935BDF73BE4AC8881D3A50 /* EnterpriseBrowser.storyboard */,
-				A152624ED02448A7BE4C2F2B /* msso_config.json */,
 			);
 			name = Resources;
 			path = Foundation/Resources;
@@ -357,7 +354,6 @@
 				0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */,
 				6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */,
 				CBB4E5F6E6CF49DFBD2BF898 /* EnterpriseBrowser.storyboard in Resources */,
-				3C6EA38CEBEE4D5BADE9D145 /* msso_config.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
