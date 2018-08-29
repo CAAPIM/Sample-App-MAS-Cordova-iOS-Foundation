@@ -2,6 +2,4 @@
 platform :ios, '9.0'
 target 'Foundation' do
 	project 'Foundation.xcodeproj'
-	pod 'MASFoundation', '~> 1.7.10'
-	pod 'MASUI', '~> 1.7.10'
 end

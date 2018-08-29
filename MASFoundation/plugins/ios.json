@@ -8,18 +8,8 @@
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
-    },
-    "cordova-plugin-barcodescanner": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
-    },
-    "cordova-plugin-mas-core": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
+      "PACKAGE_NAME": "com.ca.apim.Foundation"
     }
   },
-  "dependent_plugins": {
-    "cordova-plugin-compat": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
-    }
-  }
+  "dependent_plugins": {}
 }
