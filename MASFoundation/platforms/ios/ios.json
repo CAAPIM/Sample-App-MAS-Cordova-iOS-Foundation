@@ -9,10 +9,6 @@
         "parents": {
           "/*": [
             {
-              "xml": "<feature name=\"BarcodeScanner\"><param name=\"ios-package\" value=\"CDVBarcodeScanner\" /></feature>",
-              "count": 1
-            },
-            {
               "xml": "<preference name=\"deployment-target\" value=\"9.0\" />",
               "count": 1
             },
@@ -47,28 +43,14 @@
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
-    },
-    "cordova-plugin-compat": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
-    },
-    "cordova-plugin-barcodescanner": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
+      "PACKAGE_NAME": "com.ca.apim.Foundation"
     },
     "cordova-plugin-mas-core": {
-      "PACKAGE_NAME": "com.ca.apim.foundation"
+      "PACKAGE_NAME": "com.ca.apim.Foundation"
     }
   },
   "dependent_plugins": {},
   "modules": [
-    {
-      "id": "cordova-plugin-barcodescanner.BarcodeScanner",
-      "file": "plugins/cordova-plugin-barcodescanner/www/barcodescanner.js",
-      "pluginId": "cordova-plugin-barcodescanner",
-      "clobbers": [
-        "cordova.plugins.barcodeScanner"
-      ]
-    },
     {
       "id": "cordova-plugin-mas-core.MASPlugin",
       "file": "plugins/cordova-plugin-mas-core/www/MASPlugin.js",
@@ -168,8 +150,6 @@
   ],
   "plugin_metadata": {
     "cordova-plugin-whitelist": "1.3.3",
-    "cordova-plugin-compat": "1.2.0",
-    "cordova-plugin-barcodescanner": "0.7.4",
     "cordova-plugin-mas-core": "0.1.0"
   }
 }
