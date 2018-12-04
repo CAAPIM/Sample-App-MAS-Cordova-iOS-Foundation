@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.ca.apim.Foundation"
+    },
+    "cordova-plugin-mas-core": {
+      "PACKAGE_NAME": "com.ca.apim.Foundation"
     }
   },
   "dependent_plugins": {}
