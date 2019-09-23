@@ -1,6 +1,0 @@
-framework module MASProximity {
-  umbrella header "MASProximity.h"
-
-  export *
-  module * { export * }
-}
