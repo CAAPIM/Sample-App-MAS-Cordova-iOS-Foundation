@@ -37,6 +37,9 @@
     <feature name="MASPluginAuthProviders">
         <param name="ios-package" value="MASPluginAuthProviders" />
     </feature>
+    <feature name="Chooser">
+        <param name="ios-package" value="Chooser" />
+    </feature>
     <name>foundationapp</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
