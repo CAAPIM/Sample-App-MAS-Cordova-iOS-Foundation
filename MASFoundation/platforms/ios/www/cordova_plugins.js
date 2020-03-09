@@ -103,20 +103,10 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       "clobbers": [
         "MASPluginSecurityConfiguration"
       ]
-    },
-    {
-      "id": "cordova-plugin-chooser.Chooser",
-      "file": "plugins/cordova-plugin-chooser/www/chooser.js",
-      "pluginId": "cordova-plugin-chooser",
-      "clobbers": [
-        "chooser"
-      ]
     }
   ];
   module.exports.metadata = {
     "cordova-plugin-whitelist": "1.3.4",
-    "cordova-plugin-mas-core": "2.0.0",
-    "cordova-plugin-add-swift-support": "2.0.2",
-    "cordova-plugin-chooser": "1.2.5"
+    "cordova-plugin-mas-core": "2.1.0"
   };
 });

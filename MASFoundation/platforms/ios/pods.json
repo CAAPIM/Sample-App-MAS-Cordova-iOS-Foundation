@@ -14,12 +14,12 @@
     "libraries": {
         "MASFoundation": {
             "name": "MASFoundation",
-            "spec": "~> 2.0.00",
+            "spec": "~> 2.1.00",
             "count": 1
         },
         "MASUI": {
             "name": "MASUI",
-            "spec": "~> 2.0.00",
+            "spec": "~> 2.1.00",
             "count": 1
         }
     }

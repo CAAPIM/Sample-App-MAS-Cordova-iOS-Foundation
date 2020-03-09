@@ -1,6 +1,0 @@
-framework module Pods_foundationapp {
-  umbrella header "Pods-foundationapp-umbrella.h"
-
-  export *
-  module * { export * }
-}

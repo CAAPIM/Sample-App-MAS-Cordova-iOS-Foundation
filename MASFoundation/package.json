@@ -1,6 +1,6 @@
 {
-  "name": "com.ca.apim.foundationapp",
-  "displayName": "foundationapp",
+  "name": "com.ca.apim.masfoundation",
+  "displayName": "MASFoundation",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
@@ -13,9 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "dependencies": {
-    "cordova-ios": "^5.0.1",
-    "cordova-plugin-add-swift-support": "^2.0.2",
-    "cordova-plugin-chooser": "^1.2.5",
+    "cordova-ios": "^5.1.1",
     "cordova-plugin-mas-core": "file:../../Cordova-MAS-Foundation"
   },
   "devDependencies": {
@@ -23,8 +21,7 @@
   },
   "cordova": {
     "plugins": {
-      "cordova-plugin-whitelist": {},
-      "cordova-plugin-chooser": {}
+      "cordova-plugin-whitelist": {}
     },
     "platforms": [
       "ios"
