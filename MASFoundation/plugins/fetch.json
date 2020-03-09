@@ -10,25 +10,9 @@
   "cordova-plugin-mas-core": {
     "source": {
       "type": "local",
-      "path": "/Users/yussy01/Workspace/Cordova/Release/2.0.00/test/foundationapp/node_modules/cordova-plugin-mas-core"
+      "path": "/Users/yussy01/Workspace/Cordova/Release/2.1.00/Samples/MASFoundation/node_modules/cordova-plugin-mas-core"
     },
     "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-plugin-chooser": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-chooser"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-plugin-add-swift-support": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-add-swift-support@*"
-    },
-    "is_top_level": false,
     "variables": {}
   }
 }
